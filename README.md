@@ -1,3 +1,4 @@
+# Mortis Mini mod
 # Marchands de potions pemettant de se métamorphoser en monstre.
 
 Ce module ajoute 2 marchands qui vendent des potions permettant de se transformer en monstres.
