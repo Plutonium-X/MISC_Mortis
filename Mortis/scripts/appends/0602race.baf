@@ -1,0 +1,8 @@
+IF
+Global("RaceNPC","GLOBAL",0)
+THEN
+RESPONSE #100
+SetGlobal("RaceNPC","GLOBAL",1)
+CreateCreature("RACEMST",[3833.2460],12)
+END
+

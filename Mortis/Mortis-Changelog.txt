@@ -1,0 +1,28 @@
+MORTIS
+
+
+Version until v2.31
+- See ENGLISH-README.html
+
+Version 2.32 (25 May 2010 by BohemianReader and Leomar)
+- Traified the mod
+- Added French translation by BohemianReader
+- Added VERSION tag
+- Changed to README command
+- Moved Setup-Mortis.TP2 into the mod folder
+- Added Mortis-Changelog.txt (this file)
+- Updated to WeiDU v217
+
+Version 2.33 (29 July 2019 by Deratiseur])
+- Added compatibility with BG2EE
+- Revised french translation
+- Updated to Weidu v242
+
+Version 2.34 (27 october 24 by Deratiseur)
+- French tra files no more bugged
+
+Version 2.35 (23 december 24 by Deratiseur)
+- Correction of two potions with wrong description
+- Correction to "gnoll" potion text indicating the wrong classes that can use it
+- Addition of (pure) Multiclass usabilities (e.g.: an item for a warrior or a mage can be used by a warrior/mage (but not a cleric/mage))
+- Change so that scripts install at the end instead of the beginning (it made Irenicus lag)

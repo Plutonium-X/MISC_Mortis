@@ -1,0 +1,17 @@
+IF
+	See(NearestEnemyOf(Protagonist))
+THEN
+	RESPONSE #100
+		Attack(NearestEnemyOf(Protagonist))
+END
+
+IF
+	ActionListEmpty()
+	!See(NearestEnemyOf(Protagonist))
+THEN
+	RESPONSE #100
+		MoveToObjectFollow(LastSummonerOf(Myself))
+		Continue()
+END
+
+

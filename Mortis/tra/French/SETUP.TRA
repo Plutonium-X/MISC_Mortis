@@ -1,0 +1,490 @@
+@9001 = ~[Uu]tilisable[ %tab%]+[Uu]niquement[ %tab%]+[Pp]ar[ %tab%]*:~
+@9002 = ~\([Nn]on[ %tab%]+\|[Ii]n\)[Uu]tilisable[ %tab%]+[Pp]ar[ %tab%]*:~
+
+@1 = ~Morsure du spectateur~
+@2 = ~Ce sont vos dents crasseuses~
+@3 = ~Spectateur~
+@4 = ~Avantages :
+Attaques naturelles puissantes
+CA 2
+
+Inconvénients : 
+Ne peut porter que des anneaux
+Problème majeur avec la résistance à la magie des ennemis
+-2 en Charisme
+Alignement (Changement en neutre mauvais)
+
+Prérequis
+Humain
+Guerrier ou Mage
+12 en Intelligence minimum~
+@5 = ~Œil de spectateur~
+@6 = ~Votre attaque magique naturelle~
+@7 = ~Corps d'enfant~
+@8 = ~Ceci est le corps d'un enfant. Parfois Mortis vous inquiète vraiment...
+
+Achetez juste quelque chose et détalez loin de ce sinistre personnage.~
+@9 = ~Bracelets~
+@10 = ~Main de l'esprit meurtrier~
+@11 = ~Les bracelets sont d'épaisses lanières de métal ou de cuir que l'on se noue ou s'attache autour de l'avant-bras.~
+@12 = ~Fabriqué par Mortis, ceci est la main tranchée d'un ogre mage. La chair fut arrachée et les os creusés de sorte qu'elle puisse être enfilée comme un gant.. Mortis l'a rendu plus puissant avec sa nécromancie destructrice d'âme
+
+Quand il est invoqué, cela peut arracher l'âme d'une cible et la placer à l'intérieur d'une gemme....
+
+CEPENDANT :
+Comme tous les "cadeaux" de Mortis au delà de l'or il y a un prix à payer...
+et cet objet obscur en tirera le prix quand il sera usé.
+
+STATISTIQUES :
+MAUDIT
+-10000Xp quand équipé
+Lance Piège à âme (3 fois par jour)
+
+Réservé aux mages maléfiques
+Doit être de niveau 12 ou supérieur~
+@13 = ~Gobelet plein de sang~
+@14 = ~Gobelet de sang angélique~
+@15 = ~Un sang sombre et rance se cache à l'intérieur de ce gobelet en étain. Grattés profondément dans le métal, il y a les mots : "La vie dans la mort - Mortis."~
+@16 = ~La rumeur dit que ce sang est celui d'un Solaire mis à mort. Vous préférez ne pas demander à Mortis comment il a obtenu cet objet.....
+
+Il est dit qu'on peut retrouver son énergie perdue en usant du sang sombre qui se cache dans les profondeurs de l'étain.
+
+CEPENDANT :
+En buvant le sang vous serez pris d'une véritable frénésie pour le sang vivant et tenterez de l'arrachez à vos amis et ennemis pendant quelques moments.
+
+STATISTIQUES :
+Berserk pendant 60 secondes
+Spécial:  Soin complet pour l'utilisateur (Fonctionne aussi sur les morts-vivants)
+
+3 Charges par jour
+
+Prérequis
+Non Bon~
+@17 = ~Grouilleux~
+@18 = ~Avantages
++2 en Dextérité
+
+Inconvénients : 
+-2 en Intelligence
+-2 en Sagesse
+-2 en Charisme
+Alignement (Changement en chaotique neutre)
+
+Prérequis
+Humain
+Guerrier ou voleur
+Dextérité de 6 et plus~
+@19 = ~Gnoll~
+@20 = ~Avantages
++1 en Force
+
+Inconvénients : 
+-2 en Intelligence
+-2 en Charisme
+
+Prérequis
+Humain
+Guerrier, clerc ou voleur
+Force de 6 et plus
+Dextérité de 5 et plus
+Constitution de 5 et plus~
+@21 = ~Gobelin~
+@22 = ~Avantages :
+Infravision
+
+Inconvénients : 
+-1 en Force
+-1 en Charisme
+
+Prérequis
+Humain
+Non Bon
+Guerrier, clerc ou voleur
+Force de 4 et plus
+Dextérité de 4 et plus
+Constitution de 5 et plus
+~
+@23 = ~Cœur~
+@24 = ~Il semble que ce soit un cœur en pleine santé.
+
+Encore une fois, Mortis a réussi à vous prouver qu'il y a des facettes de lui que vous ne souhaitez pas connaître...~
+@25 = ~Hobgobelin~
+@26 = ~Avantages :
+Infravision
+
+Inconvénients : 
+-1 en Charisme
+
+Prérequis
+Humain
+Non Bon
+Guerrier, clerc ou voleur
+Force de 6 et plus
+Dextérité de 6 et plus
+Constitution de 5 et plus~
+@27 = ~Kobold~
+@28 = ~Avantages :
+Infravision
+
+Inconvénients : 
+-1 en Force
+-1 en Constitution
+
+Prérequis
+Humain
+Guerrier, clerc ou voleur
+Dextérité de 4 et plus
+Constitution de 5 et plus~
+@29 = ~Potion toxique~
+@30 = ~Potion de non-mort (Liche femelle)~
+@31 = ~Ça semble peu ragoutant...~
+@32 = ~En buvant cette potion d'apparence répugnante vous mourrez immédiatement, la chair tombera de vos os et les forces obscures à l'intérieur de cette bouteille vous ferons revenir en tant que liche
+
+Utilisable par :
+Mages humains, druides et clercs de niveau 16 ou supérieur.~ 
+@33 = ~Potion de non-mort (Liche mâle)~
+@34 = ~En buvant cette potion d'apparence répugnante vous mourrez immédiatement, la chair tombera de vos os et les forces obscures à l'intérieur de cette bouteille vous ferons revenir en tant que liche
+
+Utilisable par :
+Mages humains, druides et clercs de niveau 16 ou supérieur.~
+@35 = ~Toucher de la liche~
+@36 = ~Tout humanoïde touché devra réussir un jet de sauvegarde contre les sorts sous peine de rester paralysé.
+
+Dommage 1D10 de froid~
+@37 = ~Homme lézard~
+@38 = ~Avantages :
+CA 5
+
+Inconvénients : 
+Port d'armure impossible
+Ne peut pas porter de bottes
+Ne peut porter aucun casque
+
+Prérequis
+Humain
+Guerrier, clerc ou voleur
+Force de 8 et plus
+Constitution de 6 et plus~
+@39 = ~Minotaure~
+@40 = ~Avantages :
+CA 6
+Infravision
++2 en Force
++2 en Constitution
+Immunité au sort Labyrinthe
++6 Points de vie
+
+Inconvénients : 
+-2 en Sagesse
+-2 en Charisme
+
+Port d'armure impossible
+Ne peut pas porter de bottes
+No peut porter aucun casque
+
+Prérequis
+Humain
+Guerrier, mage ou voleur
+Force de 12 et plus
+Dextérité de 5 et plus
+Constitution de 12 et plus
+Intelligence de 5 et plus~
+@41 = ~Potion de rapidité humaine~
+@42 = ~Cette potion, très utile, modifiera la vitesse de déplacement des nouvelles races pour les rendre aussi rapide que les humains.~
+@43 = ~N/A~
+@44 = ~Non autorisé~
+@45 = ~Pour plusieurs raisons cette race ne peut pas utiliser d'objet dans cette case d'inventaire.~
+@46 = ~Ogre~
+@47 = ~Avantages :
+CA 5
++2 en Force
++2 en Constitution
++6 Points de vie
+
+Inconvénients : 
+-2 en Intelligence
+-2 en Charisme
+
+Prérequis
+Humain
+Guerrier ou voleur
+Force de 16 et plus
+Constitution de 14 et plus~
+@48 = ~Orque~
+@49 = ~Avantages :
+Infravision
++1 en Force
+
+Inconvénients : 
+-2 en Charisme
+
+Prérequis
+Humain
+Guerrier, clerc ou voleur
+Force de 6 et plus
+Constitution de 8 et plus~
+@50 = ~Script de Mortis~
+@51 = ~Crâne grimaçant~
+@52 = ~Un crane humanoïde.
+Vous souhaiteriez que Mortis arrête de vous offrir des choses comme ça.
+
+*Vous regardez Mortis, il sourit*
+
+COUREZ... ~
+@53 = ~Potion~
+@54 = ~Potion de non-mort (Guerrière squelette)~
+@55 = ~En buvant cette potion d'apparence répugnante vous mourrez immédiatement, la chair tombera de vos os et les forces obscures à l'intérieur de cette bouteille vous ferons revenir en tant que guerrier squelette.
+
+Vous devez être un humain, guerrier paladin ou rôdeur avec 16 en constitution ou davantage et avoir dépassé le niveau 15 pour survivre à cette potion.~
+@56 = ~Potion de non-mort (Guerrier squelette)~
+@57 = ~Gemme~
+@58 = ~Pierre d'âme~
+@59 = ~Une gemme d'apparence maléfique.
+Vous jureriez avoir entendu un cri s'en échapper il y a une seconde.~
+@60 = ~Piégée à l'intérieur de cette petite gemme, il y a une créature que vous avez banni en la condamnant à une éternité d'emprisonnement à l'intérieur de la structure cristalline de la gemme.
+
+Maintenant il n'y a plus qu'une chose à faire....trouvez quelqu'un pour l'acheter.~
+@61 = ~Bâton~
+@62 = ~Bâton des ténèbres de Mortis~
+@63 = ~Humm non, aucune idée.~
+@64 = ~Le bâton des ténèbres :
+
+Cet objet meurtrier est orné de représentations démoniaques et de visages monstrueux.
+Il semble irradier le mal et la noirceur. Il fut autrefois l'un des bâtons des abysses, un objet d'un grand pouvoir maléfique. Depuis Mortis y a tissé une trame obscure et son pouvoir s'est accru.
+
+En combat cela inflige 4-24 points de dégâts et rend la victime insensible aux soins durant un certain temps. Il peut également instiller la peur dans les cœurs les plus braves, et les pousser à fuir.
+
+Mais le pire étant peut être le pouvoir qu'il tire de l'abysse.
+Capable d'appeler les démons à votre secours, ou d'en devenir un vous même... couplé en plus avec le contrôle des éclairs et des ténèbres cette arme est l'une des plus maléfiques de tous les royaumes.
+
+CEPENDANT
+Comme tous les "cadeaux" de Mortis au delà de l'or il y a un prix à payer...
+et cet objet obscur en tirera le prix quand il sera usé.
+
+STATISTIQUES :
+MAUDIT
+-15000Xp quand équipé
+
+4D6 de dommage
+empêche la cible de se soigner
+50% de chance d'effrayer la cible à chaque coup
+
+Invoque des puissances (1 fois par jour)
+convoque un démon mineur
+transformation en diantrefosse
+convoque les ténèbres
+convoque le tonnerre
+convoque le rituel des âmes
+
+Réservé aux mages maléfiques
+Niveau 12 ou supérieur~
+@65 = ~Potion~
+@66 = ~Potion de non-mort (Femme vampire)~
+@67 = ~En buvant cette potion d'apparence répugnante vous mourrez immédiatement, la chair tombera de vos os et les forces obscures à l'intérieur de cette bouteille vous ferons revenir en tant que vampire.
+
+La potion fonctionne uniquement sur les femmes.~
+@68 = ~Potion de non-mort (Vampire)~
+@69 = ~En buvant cette potion d'apparence répugnante vous mourrez immédiatement, la chair tombera de vos os et les forces obscures à l'intérieur de cette bouteille vous ferons revenir en tant que vampire.
+
+La potion fonctionne uniquement sur les hommes.~
+@70 = ~Toucher du vampire~
+@71 = ~La créature touchée perdra deux niveau et deux points de constitution
+
+Inflige 1D10 dégâts de type tranchant~
+@72 = ~Deux niveau absorbés~
+@73 = ~Score de capacité absorbé~
+@74 = ~Potion de non-mort (Nécrophage)~
+@75 = ~En buvant cette potion d'apparence répugnante vous mourrez immédiatement, la chair tombera de vos os et les forces obscures à l'intérieur de cette bouteille vous ferons revenir dans la peau d'un nécrophage haineux.
+
+Humain seulement~
+@76 = ~Contact spectral~
+@77 = ~La créature touchée perdra un niveau et deux points de constitution
+
+Inflige 1D10 dégâts de froid~
+@78 = ~Un niveau absorbé~
+@79 = ~Points d'habilité drainés~
+@80 = ~Dents pourries~
+@81 = ~Dents de zombies~
+@82 = ~Ce sont vos dents crasseuses~
+@83 = ~Ces dents noires et répugnantes ont été arrachées du corps de zombies pour être ensuite nimbées de pouvoirs magiques.
+Lorsque l'on lance au sol une simple dent, elle fait jaillir de 1 à 4 zombies qui protègent leur maître jusqu'à qu'il soit détruit ou se décomposent.
+
+STATISTIQUES :
+Invoque 1-4 Zombies
+
+Réservé aux alignements Non-bon
+
+NOTE : LEUR IA EST ACTIVE !!!~
+@84 = ~Spectateur~
+@85 = ~Transforme l'utilisateur en spectateur~
+@86 = ~Les yeux du spectateur~
+@87 = ~Grouilleux~
+@88 = ~Gnoll~
+@89 = ~Gobelin~
+@90 = ~Hobgobelin~
+@91 = ~Kobold~
+@92 = ~Activer le toucher de la liche~
+@93 = ~A utiliser après avoir rechargée une partie sauvegardée pour retrouver son attaque de toucher, ou pour corriger des problèmes d'avatar.
+
+Mortis.~
+@94 = ~Homme-Lézard~
+@95 = ~Minotaure~
+@96 = ~Ogre~
+@97 = ~Orque~
+@98 = ~Guerrière squelette~
+@99 = ~Transforme l'utilisateur en Guerrière squelette...~
+@100 = ~Guerrier squelette~
+@101 = ~Transforme l'utilisateur en Guerrier squelette...~
+@102 = ~Correcteur de l'animation du squelette~
+@103 = ~A utiliser pour corriger les problèmes d'animation
+Mortis.~
+@104 = ~Piège à âme~
+@105 = ~Piège à âme (Nécromancie)
+Niveau : 8
+Portée : 12 mètres
+Durée : Permanente
+Temps d'incantation : 5
+Zone d'effet : 1 Créature
+Jets de sauvegardes : Bonus de 6 contre la mort
+
+Piège à âme est peut être le sort le plus abominable de tous les sorts offensifs, tout en pointant son index sur la cible le mage met en mouvement un tourbillon magique qui enveloppe la victime sous la forme d'une cage  extra-dimensionnelle, volant toute la force vitale de la créature et la transférant dans une pierre d'âme en possession du mage, ce processus est irréversible et la créature piégée à l'intérieur du cristal y demeurera à jamais.~
+@106 = ~Domination~
+@107 = ~Domination
+(Enchantement/Charme)
+Niveau : 5
+Portée : Champ de vision du lanceur
+Durée : 8 tours
+Temps d'incantation : 5
+Zone d'effet : une créature
+Jets de sauvegardes : Aucun 
+
+Le sort de domination permet au lanceur de sort de contrôler les actions de n'importe quelle créature tant que le sort fait effet. Ce contrôle est maintenu via un lien télépathique entre le lanceur de sorts et la victime .  Contrairement au sort de prêtre de niveau 4 Domination mentale, la cible n'a pas la possibilité de s’échapper, même si l'on agit sur son moral.  Les effets du sort pouvant être uniquement annulé par une dissipation de magie.  La cible doit réussir un jet de sauvegardes contre les sorts avec une pénalité de 2 afin d’échapper aux effets du sort.~
+@108 = ~Dominé~
+@109 = ~Immunité des non-morts~
+@110 = ~Ce sont les immunités et les faiblesses classiques d'un mort-vivant. Ce sort est lancé automatiquement par mes potions.
+
+Mortis~
+@111 = ~Femme vampire~
+@112 = ~Transforme l'utilisateur en Femme vampire...~
+@113 = ~Vampire~
+@114 = ~Transforme l'utilisateur en Vampire...~
+@115 = ~Activer le contact vampirique~
+@116 = ~A utiliser après avoir rechargée une partie sauvegardée pour retrouver son attaque de toucher, ou pour corriger des problèmes d'avatar.
+
+Mortis.~
+@117 = ~Nécrophage~
+@118 = ~Transforme l'utilisateur en Nécrophage...~
+@119 = ~Activer le contact spectral~
+@120 = ~A utiliser après avoir rechargée une partie sauvegardée pour retrouver son attaque de toucher, ou pour corriger des problèmes d'avatar.
+
+Mortis.~
+@121 = ~Gardes putréfiés~
+@122 = ~Appelle des morts vivants à votre secours~
+@123 = ~Cadeaux empoisonnés de Mortis~
+@124 = ~Sorts de terreur de mortis~
+@125 = ~Artefacts corrompus de Mortis~
+@126 = ~Changeur de race~
+@127 = ~Liche élémentaire~
+@128 = ~Mortis~
+@129 = ~Guerrier squelette~
+@130 = ~Vampire~
+@131 = ~Nécrophage~
+@132 = ~Zombie~
+
+@198 = ~Potion de forme naturelle~
+@199 = ~Cette potion permet à un humain qui a changé de race de redevenir humain.~
+
+
+// WeiDU prompts
+@1000= "Le mod %TP2_FILE_NAME% contient"
+@1001= "composants optionnels distincts.
+Pour gagner du temps, vous pouvez choisir ce que vous souhaitez faire d'eux
+au niveau general plutot que de repondre aux questions pour chacun.
+"
+@1002= "Que faut-il faire de tous les composants qui NE sont PAS ENCORE installes ?
+Les [I]nstaller, les [S]auter, dem[A]nder pour chacun ? "
+@1003= "Que faut-il faire de tous les composants qui sont DEJA installes ?
+Les [R]einstaller, les s[U]pprimer, les [S]auter, dem[A]nder pour chacun ? "
+
+@1004= "S'IL VOUS PLAIT, envoyez par e-mail le fichier"
+@1005= "a"
+
+@1006= "Installer le composant ["
+@1007= "] ?
+[R]einstaller, co[N]server, s[U]pprimer ou [Q]uitter ? "
+@1008= "] ?
+[I]nstaller, [N]e pas installer ou [Q]uitter ? "
+
+@1009= "Entrez une partie du nom du module : "
+
+@1010= "Reinstallation du composant ["
+@1011= "] "
+@1012= "Reinstallation dans la langue"
+
+@1013= "Suppression de l'ancienne installation de ["
+@1014= "] au prealable..."
+@1015= "SUPPRESSION REUSSIE DE L'ANCIEN"
+
+@1016= "Installation en cours"
+@1017= "ERREUR pendant l'installation de ["
+@1018= "], retour a l'etat anterieur"
+@1019= "INSTALLATION REUSSIE"
+@1020= "Saute"
+@1021= "Suppression de ["
+@1022= "] (composant #"
+@1023= ")"
+@1024= "SUPPRESSION REUSSIE DE ["
+
+@1025= "] ?
+[R]einstaller, co[N]server, s[U]pprimer, [Q]uitter ou choisir un parmi :"
+@1026= "] ?
+[N]e pas installer, [Q]uitter ou choisir un parmi :"
+@1027= " (installe actuellement)"
+
+@1028= "Souhaitez-vous afficher les composants de ["
+@1029= "] ?
+[Y]Oui, [N]on ? "
+
+@1030= "] ?
+choisir un parmi :"
+@1031= "] ?
+[R]einstaller, co[N]server, [Q]uitter ou choisir un parmi :"
+@1032= "INSTALLATION ECHOUEE A CAUSE D'ERREURS"
+@1033= "INSTALLATION AVEC DES ALERTES"
+@1034= "Souhaitez-vous afficher les instructions (ReadMe) ? [Y]Oui [N]on"
+@1035= "Dans la langue"
+
+@1036= "Saute le GROUPE ["
+@1037= "] pour cause d'absence des pre-requis."
+
+@1038= "dem[A]nder pour chaque composant, tout [S]auter, ou choisir une selection pre-definie :"
+@1039= "dem[A]nder pour chaque composant, [R]einstaller la configuration courante, tout s[U]pprimer, tout [S]auter, ou choisir une selection pre-definie :"
+
+@1040= "
+Veuillez choisir la langue dans laquelle vous souhaitez jouer au jeu.
+Si par la suite vous desirez jouer au jeu dans une langue differente, il vous
+faudra editer le fichier weidu.conf et reinstaller vos mods.
+"
+@1041= "Tcheque"
+@1042= "Allemand"
+@1043= "Anglais"
+@1044= "Espagnol"
+@1045= "Francais"
+@1046= "Italien"
+@1047= "Polonais"
+@1048= "Portugais"
+@1049= "Turc"
+@1050= "Japonais"
+@1051= "Coreen"
+@1052= "Chinois simplifie"
+@1053= "Russe"
+@1054= "Ukrainien"
+
+@1060= "
+Ce jeu est disponible en plusieurs langues mais WeiDU ne sait pas laquelle a ete choisie quand ce mod a ete installe.
+
+Veuillez indiquer quelle langue du jeu a ete utilisee quand vous avez installe ce mod. Votre choix servira jusqu'a ce que WeiDU s'arrete mais ne sera pas memorise.
+"
+@1061= "
+Utilisation de"
+@1062= " et "

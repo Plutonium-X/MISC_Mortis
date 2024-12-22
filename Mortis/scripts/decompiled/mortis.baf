@@ -1,0 +1,85 @@
+IF
+	AreaType(OUTDOOR)
+	Range([PC],30)
+	Global("Mortisclose1","LOCALS",0)
+	Global("MortisVisible","LOCALS",0)
+THEN
+	RESPONSE #100
+		Wait(2)
+		SetGlobal("Mortisclose1","LOCALS",1)
+END
+
+IF
+	AreaType(OUTDOOR)
+	Range([PC],30)
+	Global("Mortisclose1","LOCALS",1)
+	Global("MortisVisible","LOCALS",0)
+THEN
+	RESPONSE #100
+		Weather(RAIN)
+		Wait(1)
+		CreateVisualEffectObject("SPBASEWT",Myself)
+		SmallWait(20)
+		CreateVisualEffectObject("SPCMWOUI",Myself)
+		Wait(1)
+		CreateCreature("Mort01",[1831.305],0)
+		CreateCreature("Mort01",[2231.305],0)
+		SmallWait(20)
+		CreateCreature("Mort01",[2031.105],0)
+		CreateCreature("Mort01",[2031.505],0)
+		SmallWait(100)
+		CreateCreature("Mort01",[1831.305],0)
+		CreateCreature("Mort01",[2231.305],0)
+		CreateCreature("Mort01",[2031.105],0)
+		CreateCreature("Mort01",[2031.505],0)
+		SmallWait(40)
+		SetGlobal("MortisVisible","LOCALS",1)
+END
+
+IF
+	Range([PC],30)
+	Global("Mortisclose1","LOCALS",0)
+	Global("MortisVisible","LOCALS",0)
+	!AreaType(OUTDOOR)
+THEN
+	RESPONSE #100
+		NoAction()
+END
+
+IF
+	Global("MortisVisible","LOCALS",1)
+THEN
+	RESPONSE #100
+		CreateVisualEffectObject("SPRMPARI",Myself)
+		Wait(1)
+		CreateVisualEffectObject("SPBASERD",Myself)
+		Wait(2)
+		CreateVisualEffectObject("SPHLYSMT",Myself)
+		CreateVisualEffectObject("SPUNHBLT",Myself)
+		CreateVisualEffectObject("spdeath3",Myself)
+		SmallWait(20)
+		CreateVisualEffectObject("soultrp",Myself)
+		SmallWait(10)
+		CreateVisualEffectObject("spdeath3",Myself)
+		SmallWait(20)
+		CreateVisualEffectObject("soultrp",Myself)
+		SmallWait(20)
+		Wait(2)
+		CreateVisualEffectObject("SPCALLLI",Myself)
+		CreateVisualEffectObject("spsumgte",Myself)
+		Wait(2)
+		DestroyItem("ringM")
+		Wait(5)
+		SetGlobal("MortisVisible","LOCALS",2)
+END
+
+IF
+	Global("MortisVisible","LOCALS",2)
+THEN
+	RESPONSE #100
+		StartDialog("Mortis",Player1)
+		SetGlobal("MortisVisible","LOCALS",3)
+		SetGlobal("Mortisclose1","LOCALS",3)
+END
+
+

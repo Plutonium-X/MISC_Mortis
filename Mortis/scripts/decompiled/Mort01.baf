@@ -1,0 +1,12 @@
+IF
+	OnCreation()
+THEN
+	RESPONSE #100
+		ReallyForceSpell(Myself,CLERIC_CALL_LIGHTNING)
+		SmallWait(60)
+		CreateVisualEffectObject("soultrp",Myself)
+		Wait(1)
+		DestroySelf()
+END
+
+

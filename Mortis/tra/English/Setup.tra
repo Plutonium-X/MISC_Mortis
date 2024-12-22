@@ -1,0 +1,395 @@
+@9001 = ~[Oo]nly[ %tab%]+[Uu]sable[ %tab%]+[Bb]y[ %tab%]*:~
+@9002 = ~\(Not[ %tab%]+\|Un\)[Uu]sable[ %tab%]+[Bb]y[ %tab%]*:~
+
+@1 = ~Beholder Bite~
+@2 = ~Nasty teeth you have~
+@3 = ~Beholder Race~
+@4 = ~Advantages :
+Powerful natural attacks
+AC 2
+
+Disadvantages :
+Only able to use rings
+Major problem vs. magic resistant foes
+-2 Cha
+Alignment NE
+
+Requirements
+Human
+Fighter or Mage
+INT 12+~
+@5 = ~Beholder eye~
+@6 = ~Your natural magic attacks~
+@7 = ~Child's Body~
+@8 = ~This is the body of a child. Sometimes Mortis really worries you...
+
+Acheter juste quelque chose and get the heck away from this creepy guy..~
+@9 = ~Bracers~
+@10 = ~Hand of Spirit Slaying~
+@11 = ~Bracers are thick bands of metal or leather that are strapped, belted, or tied to a character's forearm.~
+@12 = ~Crafted by Mortis, this is the severed hand of a ogre magi. the flesh was stripped and the bones hollowed out so it can be worn like a glove. Mortis then empowered it with soul destructive necromancy
+
+When invoked it can tear the soul from a target and place it within a gem....
+
+HOWEVER :
+As with all of Mortis "gifts" there comes a price far beyond gold...
+and this dark item will extract this price when worn.
+
+STATISTICS :
+CURSED
+-10000Xp when equipped
+Cast Trap the soul 3/d
+
+Evil Mages Only
+Level 12 or higher~
+@13 = ~Blood-filled Goblet~
+@14 = ~Goblet of Angels Blood~
+@15 = ~Dark and rancid blood lurks within this pewter goblet. Scratched deep into the pewter are the words "Life in Death - Mortis."~
+@16 = ~Rumored to be blood from a slain Solar. You had best not ask Mortis how he got this item.....
+
+It is said that one can regain lost health from the dark blood that lurks within its pewter depths, even if one has past the realms of the living
+
+HOWEVER :
+by drinking the blood you will go into a frenzy for living blood and will tear into friend or foe for a few moments.
+
+STATISTICS :
+Berserking for 60s
+Special:  Fully Heals imbiber even to undead
+
+3 Charges per day
+
+Requirements
+No Good~
+@17 = ~Gibberling Race~
+@18 = ~Advantages :
++2 Dex
+
+Disadvantages :
+-2 int
+-2 wis
+-2 cha
+Alignment CN
+
+Requirements
+Human
+Fighter or Thief
+Dex 6+~
+@19 = ~Gnoll Race~
+@20 = ~Advantages :
++1 Str
+
+Disadvantages :
+-2 int
+-2 cha
+
+Requirements
+Human
+Fighter, Cleric or Thief
+Str   6+
+Dex 5+
+Con 5+~
+@21 = ~Goblin Race~
+@22 = ~Advantages :
+Infravision
+
+Disadvantages :
+-1 Str
+-1 Cha
+
+Requirements
+Human
+Non Good
+Fighter, Cleric or Thief
+Str 4+
+Dex 4+
+Con 5+~
+@23 = ~Heart~
+@24 = ~This appears to be a heart of fresh health.
+
+Once again Mortis has managed to prove that there are sides to him you dont want to know..~
+@25 = ~Hobgoblin Race~
+@26 = ~Advantages :
+Infravision
+
+Disadvantages :
+-1 cha
+
+Requirements
+Human
+Non-Good
+Fighter, Cleric or Theif
+Str 6+
+Dex 6+
+Con 5+~
+@27 = ~Kobold Race~
+@28 = ~Advantages :
+Infravision
+
+Disadvantages :
+-1 Str
+-1 Con
+
+Requirements
+Human
+Fighter, Cleric or Thief
+Dex 4+
+Con 4+~
+@29 = ~Toxic Potion~
+@30 = ~Potion of Undeath (Female Lich)~
+@31 = ~This looks nasty...~
+@32 = ~By Drinking this foul looking potion you will immediatly die, the flesh will fall from your bones and the dark magics inside this bottle will rise you as a Lich
+
+Usable by:
+Human mages, druids and clerics of level 16 or more.~
+@33 = ~Potion of Undeath (Male Lich)~
+@34 = ~By Drinking this foul looking potion you will immediatly die, the flesh will fall from your bones and the dark magics inside this bottle will rise you as a Lich
+
+Usable by:
+Human mages, druids and clerics of level 16 or more.~
+@35 = ~Lich Touch~
+@36 = ~Anyone humanoid touched must save vs spells or be held for all time.
+
+Damge 1D10 Cold~
+@37 = ~Lizard Man~
+@38 = ~Advantages :
+AC 5
+
+Disadvantages :
+No armour
+No boots
+No helm
+
+Requirements
+Human
+Fighter, Cleric or Thief
+Str 8+
+Con 6+~
+@39 = ~Minotaur Race~
+@40 = ~Advantages :
+AC 6
+Infravision
++2 Str
++2 Con
+Immune to Maze
++6 Hit points
+
+
+Disadvantages :
+-2 Wis
+-2 Cha
+
+No Armour
+No Boots
+No Helm
+
+Requirements
+Human
+Fighter, Mage or Thief
+Str 12+
+Dex 5+
+Con 12+
+Int 5+~
+@41 = ~Potion of Human Speed~
+@42 = ~This handy potions will alter the movement speed of a new race to make them as fast as humans~
+@43 = ~N/A~
+@44 = ~Not allowed~
+@45 = ~For some reason this race cant use items in this slot.~
+@46 = ~Ogre Race~
+@47 = ~Advantages :
+AC 5
+Str +2
+Con +2
++4 Hitpoints
+
+Disadvantages :
+-2 Int
+-2 Cha
+
+Requirements
+Human
+Fighter or Thief
+Str 16+
+Con 14+
+~
+@48 = ~Orc Race~
+@49 = ~Advantages :
+Infravision
++1 Str
+
+Disadvantages :
+-2 Cha
+
+Requirements
+Human
+Fighter, Cleric or Thief
+Str 6+
+Con 8+~
+@50 = ~Mortis Script~
+@51 = ~Grinning Skull~
+@52 = ~A humanoid skull.
+You wish Mortis would stop offering you things like this..
+
+*you look at Mortis, he's smiling*
+
+RUN... ~
+@53 = ~Potion~
+@54 = ~Potion of Undeath (Skeleton Warrior female)~
+@55 = ~by Drinking this foul looking potion you will immediatly die, the flesh will fall from your bones and the dark magics inside this bottle will rise you as a Skeleton Warrior.
+
+You need to be a human fighter, paladin or ranger with 16+ Con and over level 15 to survive this potion~
+@56 = ~Potion of Undeath (Skeleton Warrior)~
+@57 = ~Gem~
+@58 = ~Soul Gem~
+@59 = ~An evil looking gem.
+you swear you heard it scream a second ago.~
+@60 = ~Trapped within this small gem is a creature that you have banished. cursed them to an eternity of imprisonment within the gem's crystaline structure.
+
+Now there is only one course of action left....find someone to buy it.~
+@61 = ~Staff~
+@62 = ~Mortis' Staff of Darkness~
+@63 = ~Humm nope, no idea.~
+@64 = ~The Staff of Darkness:
+
+This fell item is adorned with demonic images and monstrous faces.
+It seems to radiate darkness and evil. It was once a staff of the abyss, an item of great evil power. Now Mortis has wove darkness into it and its power has grown.
+
+In battle in inflicts a massive 4-24 points of damage and renders the vicitm immune to healing for a limited time. It can strike fear into the hearts of the bravest, and sends them running.
+
+But perhaps worse is its powers over the abyss.
+Able to call demons to your aid, or to become them yourself... coupled with control over lightning and darkness this item is one of the most evil in all the Realms.
+
+HOWEVER
+As with all of Mortis "gifts" there comes a price far beyond gold...
+and this dark item will extract this price when worn.
+
+STATISTICS:
+CURSED
+-15000Xp when equipped
+
+4D6 damage
+stops healing working
+50% cause fear on hit
+
+Invoked Powers (1/d)
+summon lesser demon
+become a pit fiend
+call darkness
+call thunder
+call Ritual of  Souls
+
+Evil Mages Only
+Level 12 or higher~
+@65 = ~Potion~
+@66 = ~Potion of Undeath (Vampire female)~
+@67 = ~by Drinking this foul looking potion you will immediatly die, and the dark magics inside this bottle will rise you as a Vampire
+
+This potion works for Females only.~
+@68 = ~Potion of Undeath (Vampire male)~
+@69 = ~by Drinking this foul looking potion you will immediatly die, and the dark magics inside this bottle will rise you as a Vampire
+
+This potion works for Males only.~
+@70 = ~Vampire Touch~
+@71 = ~Anyone touched will lose 2 levels and 2 Con
+
+Damage 1D4 Slashing~
+@72 = ~Two Levels Drained~
+@73 = ~Ability Score Drained~
+@74 = ~Potion of Undeath (Wraith)~
+@75 = ~by Drinking this foul looking potion you will immediatly die, and the dark magics inside this bottle will cause your spirit to return as a hateful Wraith.
+
+Human only~
+@76 = ~Wraith Touch~
+@77 = ~Anyone touched will lose 1 level and 2 Con
+
+Damage 1D10 Cold~
+@78 = ~One Level Drained~
+@79 = ~Ability Score Drained~
+@80 = ~Rotting Teeth~
+@81 = ~Zombie Teeth~
+@82 = ~Nasty teeth you have~
+@83 = ~These dark, foul smelling teeth have been pulled from the bodies of zombies and then wrapped in magical charms.
+When thrown into the ground a single tooth will spawn 1-4 zombies that protect their caller untill they are destroyed or rot away.
+
+STATISTICS:
+Summon 1-4 Zombies
+
+Non Good alignment
+
+NOTE HAVE AI ON!!!~
+@84 = ~Beholder~
+@85 = ~Turn into Beholder~
+@86 = ~Beholder eyes~
+@87 = ~Gibberling~
+@88 = ~Gnoll~
+@89 = ~Goblin~
+@90 = ~Hobgoblin~
+@91 = ~Kobold~
+@92 = ~Activate Lich Touch~
+@93 = ~Use this after loading a save game to regain your touch attack. or to fix avatar problems
+
+Mortis.~
+@94 = ~Lizard Man~
+@95 = ~Minotaur~
+@96 = ~Ogre~
+@97 = ~Orc~
+@98 = ~Skeleton Warrior Female~
+@99 = ~Transform  into a Female Skeleton Warrior...~
+@100 = ~Skeleton Warrior Male~
+@101 = ~Transform a Male into a Skeleton Warrior...~
+@102 = ~Skeleton Anim Fix~
+@103 = ~Use to  fix animation problems
+Mortis. :)~
+@104 = ~Trap the Soul~
+@105 = ~Trap the Soul (Necromancy)
+Level: 8
+Range: 40 feet
+Duration: Permanent
+Casting Time: 5
+Area of Effect: 1 Creature
+Saving Throw: vs. Death -6
+
+Trap the Soul is perhaps one of the most vile of all offensive spells, while pointing his index finger at the intended target the wizard sets in motion a magical whirlwind that envelops the victim in the form of an extra-dimensional cage, stealing the very life force of the creature and transporting it to a small gem prison in the possession of the Mage, this process is irreversible and the creature trapped within the crystal will remain there forevermore.~
+@106 = ~Domination~
+@107 = ~Domination
+(Enchantment/Charm)
+Level: 5
+Range: Visual sight of caster
+Duration: 8 rounds
+Casting Time: 5
+Area of Effect: 1 creature
+Saving Throw: Neg.
+
+The domination spell enables the caster to control the actions of any creature while the spell is in effect.  This control is maintained through a telepathic link between the caster and the victim.  Unlike the 4th level priest spell Mental Domination, the target has no option for release, even if made to do something against his morals.  This effect can only be reversed by dispel magic.  The target gets a saving throw vs. spell at -2 in order to avoid the effect.~
+@108 = ~Dominated~
+@109 = ~Undead Immunity~
+@110 = ~This is the standard undead immunity & weakness file. it is auto cast by my potions.
+
+Mortis~
+@111 = ~Vampire Female~
+@112 = ~Turn into Female Vampire...~
+@113 = ~Vampire Male~
+@114 = ~Turn into Male Vampire...~
+@115 = ~Activate Vamp Touch~
+@116 = ~Use this after loading a save game to regain your touch attack.
+
+Mortis.~
+@117 = ~Wraith Male~
+@118 = ~Turn into Male Wraith...~
+@119 = ~Activate Wraith Touch~
+@120 = ~Use this after loading a save game to regain your touch attack.
+or fix animation problems Mortis.~
+@121 = ~Rotting Guards~
+@122 = ~This calls undead to your defence~
+@123 = ~Mortis' Damned Gifts~
+@124 = ~Mortis' Spells of Terror~
+@125 = ~Mortis' Blackest Treasures~
+@126 = ~Race Changer~
+@127 = ~Elemental Lich~
+@128 = ~Mortis~
+@129 = ~Skeleton Warrior~
+@130 = ~Vampire~
+@131 = ~Wraith~
+@132 = ~Zombie~
+
+@198 = ~Potion of natural form~
+@199 = ~This potion enables a human who has changed race to become human again~.

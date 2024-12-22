@@ -1,0 +1,23 @@
+@1 = ~Greetingsss Mortal. (The lich hasn't tried to kill you yet... how strange)~
+@2 = ~I am Mortissss, and I bid thee welcome to my domain..(at this the lich makes a sweeping motion to the vile place you find yourself in..)~
+@3 = ~I have watched your path child of Bhaal, and I offer you my aid....  if you wish it......~
+@4 = ~(Mortis looks calmly at you)~
+@5 = ~Yes, Mortis your aid would be "most" helpful~
+@6 = ~Mortis's Aid
+
+I have made deals with the dark lich Mortis....While the things he offers me are indeed powerful, he has warned me they have a price far beyond gold....~
+@7 = ~Um.. your looking a bit thin, OH I hear mother calling... *Run*~
+@8 = ~Have ye changed your mind Childe of Bhaal?  Doth the aid of Mortis interest ye?~
+@9 = ~(He smiles, if such a thing is possible for a lich)
+
+I am glad we share a similar view.
+Ones of *our* kind should aid each other in these times of *darkness*...
+
+Tell me....
+What is it you seek from Mortis.........Charges~
+@10 = ~Yes Mortis, Show me Items of power.....~
+@11 = ~I need Magic's Mortis, so I can crush my enemies with ease.~
+@12 = ~Come now, show me the true powers you hide. I care not for trivial items & cantrips.... I want real power~
+@13 = ~Welcome to the Mortis Race Changer. Do you wish to pick a new race?~
+@14 = ~Yes, I'd like to try something different.~
+@15 = ~No thanks, I like me as I am.~

@@ -1,0 +1,23 @@
+@1 = ~Salutationsss Mortel. (c'est étrange....La liche n'a pas encore essayé de vous tuer.)~
+@2 = ~Je suis Mortissss, et je vous souhaite la bienvenue en mon domaine..(se faisant la liche fait un geste circulaire en désignant l'horrible endroit où vous vous trouvez.)~
+@3 = ~J'ai suivi votre parcours, enfant de Bhaal, et j'ai décidé de vous offrir mon aide....  si vous la désirez......~ // Surtraduit ici du à la piétre qualité de la syntaxe
+@4 = ~(Mortis vous observe calmement.)~
+@5 = ~Oui, Mortis votre aide serait "très" appréciée.~
+@6 = ~L'aide de Mortis
+
+J'ai fait un marché avec Mortis, la liche de l'ombre....Alors que les choses qu'elle m'offre sont effectivement puissante, elle m'a prévenu qu'au delà de l'or il y avait un prix à payer....~
+@7 = ~Hum.. tu me sembles un peu maigre... Oh Je crois que j'entends ma mère qui m’appelle... *court*~  // Surtraduit ici du à la piètre qualité de la syntaxe
+@8 = ~Avez vous changé d'avis enfant de Bhaal ? Est-ce que l'aide de mortis serait susceptible de vous intéresser ?~
+@9 = ~(Il sourit, dans la mesure où la chose est possible pour une liche.)
+
+Je suis heureux que nous partagions une vision identique des choses.
+Des individus dans "notre" genre devrait s'entraider en ces temps de *ténèbres*...
+
+Dites moi....
+Que recherchez vous de la part de mortis et de son.........Chargement ?~
+@10 = ~Oui Mortis, Montrez moi des objets de pouvoir.....~
+@11 = ~J'ai besoin de magie Mortis, ainsi je pourrais écraser mes ennemis sans difficulté.~
+@12 = ~Approchez, montrez moi les vrais pouvoirs que vous cachez. Je me moque de ces objets et de ces sorts insignifiants.... Je veux le vrai pouvoir.~
+@13 = ~Bienvenue au changeur de race de Mortis. Souhaitez-vous choisir une nouvelle race ?~
+@14 = ~Oui, j'aimerais essayer quelque chose de différent.~
+@15 = ~Non merci, je suis bien comme je suis.~

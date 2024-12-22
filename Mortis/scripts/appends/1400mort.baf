@@ -1,0 +1,8 @@
+IF
+Global("MortNPC","GLOBAL",0)
+THEN
+RESPONSE #100
+SetGlobal("MortNPC","GLOBAL",1)
+CreateCreature("MORTIS",[2031.305],12)
+END
+
